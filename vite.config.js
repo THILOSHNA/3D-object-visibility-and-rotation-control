@@ -4,6 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/",
-  base: "/3D object visibility and rotation control/",
+  base: "/3D-object-visibility-and-rotation-control/",
 });
